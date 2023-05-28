@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/qsampol_FInalProjectMenuB.unity
+    guid: b0d636e0a8a4fb14488048f8becfdb02
+  - enabled: 1
+    path: Assets/Scenes/qsampol_FinalProjectB.unity
+    guid: 699ea995da62f79409d94299d2a8ef7f
   m_configObjects: {}
